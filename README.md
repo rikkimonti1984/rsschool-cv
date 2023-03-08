@@ -65,3 +65,30 @@ return n - F(M(n - 1))
 ```
 
 ---
+
+### Education
+1. **«Software Design»**
+    *	*3.11.2018/3.12.2018* - HTML5&CSS3
+    *	*4.12.2018/4.01.2019* - JavaScript&jQuery
+2. **Academy IT STEP**
+    * *11.01.2021/22.03.2021* - Object Oriented Programming with C/C++
+    * *29.03.2021/10.05.2021* - Microsoft .NET platform and C# programming language
+    * *29.11.2021/17.03.2022* - Creation of web applications executed on the server side using the PHP programming language and AJAX technology
+    * *18.10.2021/26.11.2021* - Developing Game Applications Using Unity
+    * *14.09.2021/7.10.2021* - Programming and administration of MS SQL Server DBMS
+    * *28.03.2022/26.05.2022* - Programming using Java technology and Oracle DBMS
+    * *20.07.2022/29.09.2022* - Programming mobile applications for the Android platform
+
+---
+
+### Work experience
+1. **[Broject](https://broject.uz/)**
+  *intership* => backend(Laravel)
+2. **ООО Smart Software**
+  *intership* => backend(Laravel)
+---
+
+### Languages
+1.	Uzbek
+2.	Russian
+3.	English (B2)
