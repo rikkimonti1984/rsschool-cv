@@ -15,8 +15,6 @@
     <script>
         window.onload = function () {
             var chart = new CanvasJS.Chart("chartContainer", {
-                exportEnabled: true,
-                animationEnabled: true,
                 title: {
                     text: "Skills"
                 },
@@ -61,29 +59,30 @@
         <div class="contact">
             <table class="table table-bordered">
                 <tr>
-                    <td>Phone:</td>
+                    <th scope="row">Phone:</th>
                     <td>+99(893) 504 - 01 - 65</td>
                 </tr>
                 <tr>
-                    <td>Location:</td>
+                    <th scope="row">Location:</th>
                     <td>Uzbekistan, Tashkent</td>
                 </tr>
                 <tr>
-                    <td>Email:</td>
+                    <th scope="row">Email:</th>
                     <td><a href="https://rikkimonti@gmail.com">rikkimonti@gmail.com</a></td>
                 </tr>
                 <tr>
-                    <td>LinkedIn:</td>
+                    <th scope="row">LinkedIn:</th>
                     <td><a href="https://www.linkedin.com/in/sitora-shovkatova-24897a235/">Sitora Shovkatova</a></td>
                 </tr>
 
                 <tr>
-                    <td>GitHub</td>
+                    <th scope="row">GitHub</th>
                     <td><a href="https://github.com/rikkimonti1984">rikkimonti1984</a></td>
                 </tr>
             </table>
         </div>
         <div class="about">
+            <h3>About me</h3>
             <p>
                 I'm Sitora aka Rikki Monti, a medical student by day and programmer by night. Combining my passions to
                 bring innovative healthcare solutions to life through coding. After watching the Ready Player One movie,
@@ -95,13 +94,14 @@
         <div class="skills">
             <div id="chartContainer" style="height: 370px; width: 100%;"></div>
         </div>
-        <div class="code">
+        <div class="code mt-5">
+            <h3>Code</h3>
             <p class="code-root">
                 Mutual Recursion allows us to take the fun of regular recursion (where a function calls itself until a
                 terminating condition) and apply it to multiple functions calling each other! Let's use the Hofstadter
                 Female and Male sequences to demonstrate this technique. You'll want to create two functions F and M
-                such that the following equations are true:<a
-                    href="https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b">root</a>
+                such that the following equations are true:
+                <a href="https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b">root</a>
             </p>
             <pre>
                 function F(n) {
