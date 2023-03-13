@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(253, 253, 253) !important; 
+}
+.wrapper {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+    padding: 10px 0;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: azure;
+    text-shadow: 0 0 3px #0c0b0b, 0 0 5px #7e6161;
+}
+.contact{
+    width: 50%;
+}
+.contact a{
+    text-decoration: none;
+    color: black; 
+}
+.contact a:hover{
+    color: rgb(85, 128, 248);
+}
+.social-links ul{
+    max-width: 30%;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.social-links ul a{
+    color: cadetblue;
+    font-size: 36px;
+}
+
