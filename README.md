@@ -1,1 +1,1 @@
-# [rsschool-cv][https://Grikkimonti1984.github.io/rsschool-cv/cv]
+# [https://rikkimonti1984.github.io/rsschool-cv/cv](rsschool-cv)
