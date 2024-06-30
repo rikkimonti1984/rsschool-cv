@@ -15,6 +15,25 @@ In the future, I would like to combine my skills in medicine and programming to 
 - HTML/CSS/JavaScript/TypeScript/PhP
 - Bootstrap/Laravel
 - Git
+## 5. Code Examples
+*The Adapter Design Pattern can be used, for example in the StarCraft game, to insert an external character in the game. The pattern consists in having a wrapper class that will adapt the code from the external source.*
+```
+class MarioAdapter {
+  constructor(mario) {
+    this.mario = mario;
+  }
+
+  attack(target) {
+    const damage = this.mario.jumpAttack();
+    target.health -= damage;
+  }
+}
+```
+## 6. Work Experience
+- [Coffee House](https://rikkimonti1984jsfe2023q4-coffee-house.netlify.app/)
+- [Async Race](https://rikkimonti1984-jsfe2023q4-async-race.netlify.app/)
+- [Hangman](https://hangman-rikkimonti1984-jsfe2023q4.netlify.app/)
+- [Library](https://rikkimonti1984-jsfepreschool2-library.netlify.app/)
 ## 7. Education
 - [Tashkent Pediatric Medical Institute](https://tashpmi.uz/)
 - [National Children's Medical Center](https://bmtm.uz/en/)
