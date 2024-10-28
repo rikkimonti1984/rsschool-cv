@@ -9,6 +9,7 @@ I am a surgical resident with a strong interest in programming and technology as
 ## Skills
 - **Frontend:** HTML, CSS (Bootstrap), JavaScript
 - **Backend:** PHP (Laravel)
+- **Development Tools:** Git, GitHub, Visual Studio Code
   
 ## Code Examples
 *Task
