@@ -39,8 +39,8 @@
         </p>
         <pre>
 function sortArray(array) {
-    let odd = array.filter(x => x % 2).sort((a, b) => a - b);
-    return array.map(x => x % 2 ? odd.shift() : x);
+    let odd = array.filter(x =&gt; x % 2).sort((a, b) =&gt; a - b);
+    return array.map(x =&gt; x % 2 ? odd.shift() : x);
 }
         </pre>
 
